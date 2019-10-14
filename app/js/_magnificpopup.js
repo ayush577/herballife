@@ -6,7 +6,7 @@ jQuery(document).ready(function($) {
   $('.image-popup').magnificPopup({
   type: 'image',
    gallery: {
-    enabled: false,
+    enabled: true,
   }
   });
 
